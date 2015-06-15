@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="MF101" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="200 0 560 560" enable-background="new 200 0 560 560" xml:space="preserve">
+<g id="MF_Body">
+	<g id="Faceplate">
+		<path id="Base_Faceplate" fill="#262828" d="M614.8,508.5H347.4c-4.6,0-8.5-3.8-8.5-8.5V60.2c0-4.7,3.8-8.5,8.5-8.5h267.5
+			c4.7,0,8.5,3.8,8.5,8.5V500C623.2,504.7,619.5,508.5,614.8,508.5z"/>
+		<path id="Faceplate_Shadow" fill="#1D1E1E" d="M618.2,508.5H343.9c-2.8,0-4.9-2.2-4.9-4.9V355.9c0-2.8,2.2-4.9,4.9-4.9h274.5
+			c2.8,0,4.9,2.2,4.9,4.9v147.8C623.2,506.2,621,508.5,618.2,508.5z"/>
+	</g>
+	<g id="Wooden_Panels">
+		<path id="Right_Wood_Panel" fill="#99613A" d="M629.5,513.7h-11.3c-3.5,0-6.3-2.8-6.3-6.4v-454c0-3.5,2.9-6.3,6.3-6.3h11.3
+			c3.5,0,6.3,2.8,6.3,6.3v454C635.8,510.8,632.9,513.7,629.5,513.7z"/>
+		<path id="Left_Wood_Panel" fill="#99613A" d="M341.9,513.7h-11.3c-3.5,0-6.4-2.8-6.4-6.4v-454c0-3.5,2.8-6.3,6.4-6.3h11.3
+			c3.5,0,6.4,2.8,6.4,6.3v454C348.2,510.8,345.3,513.7,341.9,513.7z"/>
+	</g>
+	<g id="Left_Faceplate_Detail">
+		<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M585.1,350.1h-66.6c-4.6,0-8.5-3.8-8.5-8.5V97.9
+			c0-4.7,3.8-8.4,8.5-8.4h66.6c4.7,0,8.5,3.8,8.5,8.4v243.8C593.5,346.3,589.7,350.1,585.1,350.1z"/>
+		<path fill="#FFFFFF" d="M510,108.2V97.9c0-4.7,3.8-8.4,8.5-8.4h66.6c4.7,0,8.5,3.8,8.5,8.4v10.3L510,108.2z"/>
+	</g>
+	<g id="Right_Faceplate_Detail">
+		<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M442.2,350.1h-66.5c-4.6,0-8.5-3.8-8.5-8.5V97.9
+			c0-4.7,3.8-8.4,8.5-8.4h66.6c4.6,0,8.5,3.8,8.5,8.4v243.8C450.7,346.3,446.9,350.1,442.2,350.1z"/>
+		<path fill="#FFFFFF" d="M367.3,108.2V97.9c0-4.7,3.8-8.4,8.5-8.4h66.6c4.6,0,8.5,3.8,8.5,8.4v10.3L367.3,108.2z"/>
+	</g>
+</g>
+<g id="Lights">
+	<g id="Red_Light">
+		<circle fill="#E13C67" cx="480" cy="278.4" r="5.2"/>
+	</g>
+	<circle id="Yellow_Light" fill="#CEB838" cx="480" cy="227.9" r="5.2"/>
+	<circle id="Green_Light" fill="#3EDD58" cx="480" cy="329" r="5.2"/>
+</g>
+<g id="Switches">
+	<g id="Toggle_Switch">
+		<circle fill="#B3B3B3" cx="480" cy="434.4" r="17.4"/>
+		<circle fill="#E6E6E6" cx="480" cy="434.4" r="8.6"/>
+	</g>
+	<g id="Right_Switch">
+		<path fill="#EA3232" d="M573,237.6h-43.2c-0.8,0-1.4-0.6-1.4-1.4v-16.9c0-0.8,0.7-1.4,1.4-1.4H573c0.8,0,1.4,0.6,1.4,1.4v16.9
+			C574.5,237.1,573.8,237.6,573,237.6z"/>
+		<path fill="#F93D3D" d="M572.5,237.6h-22l0.3-19.7h21.7c0.8,0,1.4,0.6,1.4,1.4v16.9C573.8,237.1,573.2,237.6,572.5,237.6z"/>
+	</g>
+	<g id="Left_Switch">
+		<path fill="#F93D3D" d="M430.2,237.6H387c-0.8,0-1.4-0.6-1.4-1.4v-16.9c0-0.8,0.6-1.4,1.4-1.4h43.2c0.8,0,1.4,0.6,1.4,1.4v16.9
+			C431.6,237.1,430.9,237.6,430.2,237.6z"/>
+		<path fill="#EA3232" d="M429.6,237.6h-22l0.3-19.7h21.6c0.8,0,1.4,0.6,1.4,1.4v16.9C430.9,237.1,430.3,237.6,429.6,237.6z"/>
+	</g>
+</g>
+<g id="Knobs">
+	<g id="Bottom_Right_Knob">
+		<circle fill="#1A1A1A" cx="551.3" cy="309.8" r="27.4"/>
+		<circle fill="#E6E6E6" cx="551.5" cy="309.8" r="16"/>
+	</g>
+	<g id="Bottom_Left_Knob">
+		<circle fill="#1A1A1A" cx="408.6" cy="309.6" r="27.4"/>
+		<circle fill="#E6E6E6" cx="408.5" cy="309.6" r="16"/>
+	</g>
+	<g id="Top_Right_Knob">
+		<circle fill="#1A1A1A" cx="551.3" cy="146" r="27.4"/>
+		<circle fill="#E6E6E6" cx="551.5" cy="146" r="15.9"/>
+	</g>
+	<g id="Top_Center_Knob">
+		<circle fill="#1A1A1A" cx="480.6" cy="146" r="19.7"/>
+		<circle fill="#E6E6E6" cx="480.6" cy="146" r="11.4"/>
+	</g>
+	<g id="Top_Left_Knob">
+		<circle fill="#1A1A1A" cx="408.6" cy="146" r="27.4"/>
+		<circle fill="#E6E6E6" cx="408.5" cy="146" r="15.9"/>
+	</g>
+	<g id="Shiney_Bits">
+		<g id="Top_Center_Shine" opacity="0.5">
+			<path fill="#FFFFFF" d="M480.6,146.1h-11.4c0,6.3,5.1,11.4,11.4,11.4V146.1z"/>
+			<path fill="#FFFFFF" d="M480.6,146.1H492c0-6.3-5.1-11.4-11.4-11.4V146.1z"/>
+		</g>
+		<g id="Top_Left_Shine" opacity="0.5">
+			<path fill="#FFFFFF" d="M408.5,146.1h-15.9c0,8.8,7.1,15.9,15.9,15.9V146.1z"/>
+			<path fill="#FFFFFF" d="M408.5,146.1h15.9c0-8.8-7.1-15.9-15.9-15.9V146.1z"/>
+		</g>
+		<g id="Top_Right_Shine" opacity="0.5">
+			<path fill="#FFFFFF" d="M551.3,146.1h-15.9c0,8.8,7.1,15.9,15.9,15.9V146.1z"/>
+			<path fill="#FFFFFF" d="M551.3,146.1h15.9c0-8.8-7.1-15.9-15.9-15.9V146.1z"/>
+		</g>
+		<g id="Bottom_Right_Shine" opacity="0.5">
+			<path fill="#FFFFFF" d="M551.5,309.9h-15.9c0,8.8,7.1,15.9,15.9,15.9V309.9z"/>
+			<path fill="#FFFFFF" d="M551.5,309.9h15.9c0-8.8-7.1-15.9-15.9-15.9V309.9z"/>
+		</g>
+		<g id="Bottom_Left_Shine" opacity="0.5">
+			<path fill="#FFFFFF" d="M408.5,309.7h-15.9c0,8.8,7.1,15.9,15.9,15.9V309.7z"/>
+			<path fill="#FFFFFF" d="M408.5,309.7h15.9c0-8.8-7.1-15.9-15.9-15.9V309.7z"/>
+		</g>
+	</g>
+</g>
+</svg>
